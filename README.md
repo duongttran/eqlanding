@@ -1,0 +1,1 @@
+https://eqlanding.netlify.app/
